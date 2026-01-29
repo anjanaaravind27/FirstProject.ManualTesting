@@ -1,1 +1,4 @@
-This folder contains Excel file for manual testing
+This folder documents the manual testing artifacts.
+
+The Excel file containing Test Cases and Bug Reports is available at the root of this repository:
+- tcSe&BugRprt.xlsx
