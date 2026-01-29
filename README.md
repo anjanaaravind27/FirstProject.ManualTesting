@@ -24,3 +24,6 @@ Demo E-commerce Website
 
 ## Outcome
 Identified multiple functional and UI bugs and documented them with proper severity and priority.
+
+## Test Artifacts
+- Test cases and bug reports are maintained in Excel 
